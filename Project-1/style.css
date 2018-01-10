@@ -1,0 +1,42 @@
+body {
+  background-color: #caebf2;
+  font-family: 'Oxygen', sans-serif;
+}
+.jumbotron {
+  color: white;
+  background-image: url("images/crowd.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#display {
+  display: block;
+}
+.my-4 {
+  border-color: white;
+  width: 80%;
+}
+#words {
+  font-size: 20px;
+}
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
+#recommend {
+  font-size: 20px;
+}
+#scores {
+  font-size: 20px;
+}
+#artistSearch {
+  color: black;
+}
+.panel-body {
+  font-size: 20px;
+  margin-bottom: 100px;
+}
+#lyrics {
+  font-size: 25px;
+}
+
